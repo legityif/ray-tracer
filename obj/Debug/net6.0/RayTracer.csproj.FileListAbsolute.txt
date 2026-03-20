@@ -1,0 +1,54 @@
+C:\Uni material\2022 sem 2\Graphics\Projects C#\project-1-ray-tracer-legityif\project-1-ray-tracer-legityif\bin\Debug\net6.0\RayTracer.exe
+C:\Uni material\2022 sem 2\Graphics\Projects C#\project-1-ray-tracer-legityif\project-1-ray-tracer-legityif\bin\Debug\net6.0\RayTracer.deps.json
+C:\Uni material\2022 sem 2\Graphics\Projects C#\project-1-ray-tracer-legityif\project-1-ray-tracer-legityif\bin\Debug\net6.0\RayTracer.runtimeconfig.json
+C:\Uni material\2022 sem 2\Graphics\Projects C#\project-1-ray-tracer-legityif\project-1-ray-tracer-legityif\bin\Debug\net6.0\RayTracer.dll
+C:\Uni material\2022 sem 2\Graphics\Projects C#\project-1-ray-tracer-legityif\project-1-ray-tracer-legityif\bin\Debug\net6.0\RayTracer.pdb
+C:\Uni material\2022 sem 2\Graphics\Projects C#\project-1-ray-tracer-legityif\project-1-ray-tracer-legityif\bin\Debug\net6.0\CommandLine.dll
+C:\Uni material\2022 sem 2\Graphics\Projects C#\project-1-ray-tracer-legityif\project-1-ray-tracer-legityif\bin\Debug\net6.0\StbImageWriteSharp.dll
+C:\Uni material\2022 sem 2\Graphics\Projects C#\project-1-ray-tracer-legityif\project-1-ray-tracer-legityif\obj\Debug\net6.0\RayTracer.csproj.AssemblyReference.cache
+C:\Uni material\2022 sem 2\Graphics\Projects C#\project-1-ray-tracer-legityif\project-1-ray-tracer-legityif\obj\Debug\net6.0\RayTracer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Uni material\2022 sem 2\Graphics\Projects C#\project-1-ray-tracer-legityif\project-1-ray-tracer-legityif\obj\Debug\net6.0\RayTracer.AssemblyInfoInputs.cache
+C:\Uni material\2022 sem 2\Graphics\Projects C#\project-1-ray-tracer-legityif\project-1-ray-tracer-legityif\obj\Debug\net6.0\RayTracer.AssemblyInfo.cs
+C:\Uni material\2022 sem 2\Graphics\Projects C#\project-1-ray-tracer-legityif\project-1-ray-tracer-legityif\obj\Debug\net6.0\RayTracer.csproj.CoreCompileInputs.cache
+C:\Uni material\2022 sem 2\Graphics\Projects C#\project-1-ray-tracer-legityif\project-1-ray-tracer-legityif\obj\Debug\net6.0\RayTracer.csproj.CopyComplete
+C:\Uni material\2022 sem 2\Graphics\Projects C#\project-1-ray-tracer-legityif\project-1-ray-tracer-legityif\obj\Debug\net6.0\RayTracer.dll
+C:\Uni material\2022 sem 2\Graphics\Projects C#\project-1-ray-tracer-legityif\project-1-ray-tracer-legityif\obj\Debug\net6.0\refint\RayTracer.dll
+C:\Uni material\2022 sem 2\Graphics\Projects C#\project-1-ray-tracer-legityif\project-1-ray-tracer-legityif\obj\Debug\net6.0\RayTracer.pdb
+C:\Uni material\2022 sem 2\Graphics\Projects C#\project-1-ray-tracer-legityif\project-1-ray-tracer-legityif\obj\Debug\net6.0\RayTracer.genruntimeconfig.cache
+C:\Uni material\2022 sem 2\Graphics\Projects C#\project-1-ray-tracer-legityif\project-1-ray-tracer-legityif\obj\Debug\net6.0\ref\RayTracer.dll
+C:\Uni material\2022 sem 2\Graphics\Projects C#\project-1-ray-tracer-legityif\bin\Debug\net6.0\RayTracer.exe
+C:\Uni material\2022 sem 2\Graphics\Projects C#\project-1-ray-tracer-legityif\bin\Debug\net6.0\RayTracer.deps.json
+C:\Uni material\2022 sem 2\Graphics\Projects C#\project-1-ray-tracer-legityif\bin\Debug\net6.0\RayTracer.runtimeconfig.json
+C:\Uni material\2022 sem 2\Graphics\Projects C#\project-1-ray-tracer-legityif\bin\Debug\net6.0\RayTracer.dll
+C:\Uni material\2022 sem 2\Graphics\Projects C#\project-1-ray-tracer-legityif\bin\Debug\net6.0\RayTracer.pdb
+C:\Uni material\2022 sem 2\Graphics\Projects C#\project-1-ray-tracer-legityif\bin\Debug\net6.0\CommandLine.dll
+C:\Uni material\2022 sem 2\Graphics\Projects C#\project-1-ray-tracer-legityif\bin\Debug\net6.0\StbImageWriteSharp.dll
+C:\Uni material\2022 sem 2\Graphics\Projects C#\project-1-ray-tracer-legityif\obj\Debug\net6.0\RayTracer.csproj.AssemblyReference.cache
+C:\Uni material\2022 sem 2\Graphics\Projects C#\project-1-ray-tracer-legityif\obj\Debug\net6.0\RayTracer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Uni material\2022 sem 2\Graphics\Projects C#\project-1-ray-tracer-legityif\obj\Debug\net6.0\RayTracer.AssemblyInfoInputs.cache
+C:\Uni material\2022 sem 2\Graphics\Projects C#\project-1-ray-tracer-legityif\obj\Debug\net6.0\RayTracer.AssemblyInfo.cs
+C:\Uni material\2022 sem 2\Graphics\Projects C#\project-1-ray-tracer-legityif\obj\Debug\net6.0\RayTracer.csproj.CoreCompileInputs.cache
+C:\Uni material\2022 sem 2\Graphics\Projects C#\project-1-ray-tracer-legityif\obj\Debug\net6.0\RayTracer.csproj.CopyComplete
+C:\Uni material\2022 sem 2\Graphics\Projects C#\project-1-ray-tracer-legityif\obj\Debug\net6.0\RayTracer.dll
+C:\Uni material\2022 sem 2\Graphics\Projects C#\project-1-ray-tracer-legityif\obj\Debug\net6.0\refint\RayTracer.dll
+C:\Uni material\2022 sem 2\Graphics\Projects C#\project-1-ray-tracer-legityif\obj\Debug\net6.0\RayTracer.pdb
+C:\Uni material\2022 sem 2\Graphics\Projects C#\project-1-ray-tracer-legityif\obj\Debug\net6.0\RayTracer.genruntimeconfig.cache
+C:\Uni material\2022 sem 2\Graphics\Projects C#\project-1-ray-tracer-legityif\obj\Debug\net6.0\ref\RayTracer.dll
+C:\Users\yifan\OneDrive\Uni material\2022 sem 2\Graphics\Projects\project-1-ray-tracer-legityif\bin\Debug\net6.0\RayTracer.exe
+C:\Users\yifan\OneDrive\Uni material\2022 sem 2\Graphics\Projects\project-1-ray-tracer-legityif\bin\Debug\net6.0\RayTracer.deps.json
+C:\Users\yifan\OneDrive\Uni material\2022 sem 2\Graphics\Projects\project-1-ray-tracer-legityif\bin\Debug\net6.0\RayTracer.runtimeconfig.json
+C:\Users\yifan\OneDrive\Uni material\2022 sem 2\Graphics\Projects\project-1-ray-tracer-legityif\bin\Debug\net6.0\RayTracer.dll
+C:\Users\yifan\OneDrive\Uni material\2022 sem 2\Graphics\Projects\project-1-ray-tracer-legityif\bin\Debug\net6.0\RayTracer.pdb
+C:\Users\yifan\OneDrive\Uni material\2022 sem 2\Graphics\Projects\project-1-ray-tracer-legityif\bin\Debug\net6.0\CommandLine.dll
+C:\Users\yifan\OneDrive\Uni material\2022 sem 2\Graphics\Projects\project-1-ray-tracer-legityif\bin\Debug\net6.0\StbImageWriteSharp.dll
+C:\Users\yifan\OneDrive\Uni material\2022 sem 2\Graphics\Projects\project-1-ray-tracer-legityif\obj\Debug\net6.0\RayTracer.csproj.AssemblyReference.cache
+C:\Users\yifan\OneDrive\Uni material\2022 sem 2\Graphics\Projects\project-1-ray-tracer-legityif\obj\Debug\net6.0\RayTracer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yifan\OneDrive\Uni material\2022 sem 2\Graphics\Projects\project-1-ray-tracer-legityif\obj\Debug\net6.0\RayTracer.AssemblyInfoInputs.cache
+C:\Users\yifan\OneDrive\Uni material\2022 sem 2\Graphics\Projects\project-1-ray-tracer-legityif\obj\Debug\net6.0\RayTracer.AssemblyInfo.cs
+C:\Users\yifan\OneDrive\Uni material\2022 sem 2\Graphics\Projects\project-1-ray-tracer-legityif\obj\Debug\net6.0\RayTracer.csproj.CoreCompileInputs.cache
+C:\Users\yifan\OneDrive\Uni material\2022 sem 2\Graphics\Projects\project-1-ray-tracer-legityif\obj\Debug\net6.0\RayTracer.csproj.CopyComplete
+C:\Users\yifan\OneDrive\Uni material\2022 sem 2\Graphics\Projects\project-1-ray-tracer-legityif\obj\Debug\net6.0\RayTracer.dll
+C:\Users\yifan\OneDrive\Uni material\2022 sem 2\Graphics\Projects\project-1-ray-tracer-legityif\obj\Debug\net6.0\refint\RayTracer.dll
+C:\Users\yifan\OneDrive\Uni material\2022 sem 2\Graphics\Projects\project-1-ray-tracer-legityif\obj\Debug\net6.0\RayTracer.pdb
+C:\Users\yifan\OneDrive\Uni material\2022 sem 2\Graphics\Projects\project-1-ray-tracer-legityif\obj\Debug\net6.0\RayTracer.genruntimeconfig.cache
+C:\Users\yifan\OneDrive\Uni material\2022 sem 2\Graphics\Projects\project-1-ray-tracer-legityif\obj\Debug\net6.0\ref\RayTracer.dll
